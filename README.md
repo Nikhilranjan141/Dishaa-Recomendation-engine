@@ -22,7 +22,7 @@ This project provides a simple, mobile-friendly, and intelligent recommendation 
 
 💡 Lightweight Integration — Can be embedded into the existing PM Internship portal
 
-our prototype link : http://localhost:5173/
+our prototype link : https://internetic-recommendation-engine-6g.vercel.app/
 
 ## Youtube demo video link : https://youtu.be/6Gb8jGP3fmI
 
